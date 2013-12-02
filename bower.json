@@ -1,0 +1,11 @@
+{
+  "name": "wordpress-bootstrap",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dawnerd/wordpress-bootstrap",
+  "authors": [
+    "Troy Whiteley <troy@somanyscientists.com>"
+  ],
+  "description": "A skeleton wordpress install.",
+  "license": "MIT",
+  "private": true
+}

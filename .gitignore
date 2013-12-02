@@ -1,0 +1,6 @@
+vendor
+html/wp
+node_modules
+wp-content
+config/*
+!config/*.sample.php
